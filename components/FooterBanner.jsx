@@ -11,7 +11,6 @@ const FooterBanner = ({
 
   return (
     <div className='footer-banner-container'>
-      {console.log(image)}
       <div className='banner-desc'>
         <div className='left'>
           <p>{discount}</p>
